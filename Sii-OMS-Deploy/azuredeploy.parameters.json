@@ -8,37 +8,37 @@
 
     "omsRecoveryVaultName": {
 
-      "value": "GEN-UNIQUE"
+      "value": "Sii-RecoveryVault"
 
     },
 
     "omsRecoveryVaultRegion": {
 
-      "value": "West Europe"
+      "value": "Australia Southeast"
 
     },
 
     "omsWorkspaceName": {
 
-      "value": "GEN-UNIQUE-20"
+      "value": "Sii-OMS-Workspace"
 
     },
 
     "omsWorkspaceRegion": {
 
-      "value": "West Europe"
+      "value": "Australia Southeast"
 
     },
 
     "omsAutomationAccountName": {
 
-      "value": "GEN-UNIQUE-30"
+      "value": "Sii-OMS-AutomationAccount"
 
     },
 
     "omsAutomationRegion": {
 
-      "value": "West Europe"
+      "value": "Australia Southeast"
 
     },
 
@@ -56,7 +56,7 @@
 
     "_artifactsLocation": {
 
-      "value": "C:\\xInstall\\source\\Sii-OMS-Deploy\\Sii-OMS-Deploy\\Sii-OMS-Deploy"
+      "value": "https://github.com/Dries-Venter/Sii-OMS-Deploy"
 
     }
 
