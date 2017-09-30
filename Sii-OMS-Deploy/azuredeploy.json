@@ -22,7 +22,7 @@
 
       "type": "string",
 
-      "defaultValue": "West Europe",
+      "defaultValue": "Australia Southeast",
 
       "allowedValues": [
 
@@ -162,7 +162,7 @@
 
       "type": "string",
 
-      "defaultValue": "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/oms-all-deploy",
+      "defaultValue": "https://github.com/Dries-Venter/Sii-OMS-Deploy",
 
       "metadata": {
 
