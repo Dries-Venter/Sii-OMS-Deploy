@@ -31,9 +31,9 @@
       <Visible>False</Visible>
     </None>
     <Content Include="Deploy-AzureResourceGroup.ps1" />
-    <None Include="NestedTemplates\omsWorkspace.json" />
-    <None Include="NestedTemplates\omsRecoveryServices.json" />
-    <None Include="NestedTemplates\omsAutomation.json" />
+    <None Include="nestedtemplates\omsWorkspace.json" />
+    <None Include="nestedtemplates\omsRecoveryServices.json" />
+    <None Include="nestedtemplates\omsAutomation.json" />
   </ItemGroup>
   <Target Name="GetReferenceAssemblyPaths" />
 </Project>
